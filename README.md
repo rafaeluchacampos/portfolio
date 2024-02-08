@@ -12,3 +12,8 @@ This is a small project based on the ONE|Alura courses on JavaScript, HTML and C
 * CSS
 
 * Flex-box
+
+
+
+## Link:
+https://portfolio-nine-puce-60.vercel.app/index.html
